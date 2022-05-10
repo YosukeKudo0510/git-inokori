@@ -2,20 +2,20 @@ package com.example.domain;
 
 public class Car {
 	
-	private String name;
-	private Integer speed;
+	private String nameA;
+	private Integer speedA;
 	
 	public String getName() {
-		return name;
+		return nameA;
 	}
 	public void setName(String name) {
-		this.name = name;
+		this.nameA = name;
 	}
 	public Integer getSpeed() {
-		return speed;
+		return speedA;
 	}
 	public void setSpeed(Integer speed) {
-		this.speed = speed;
+		this.speedA = speed;
 	}
 	
 
